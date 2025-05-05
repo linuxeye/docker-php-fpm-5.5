@@ -1,5 +1,5 @@
 FROM debian:stretch-slim
-MAINTAINER "Justo" <lj2007331@gmail.com>
+LABEL org.opencontainers.image.authors="lj2007331@gmail.com"
 
 
 ENV PHP_VERSION=5.5.38
